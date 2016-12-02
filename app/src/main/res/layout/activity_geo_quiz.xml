@@ -34,6 +34,12 @@
     </LinearLayout>
 
     <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cheat_button"
+        android:id="@+id/cheat_button"/>
+
+    <Button
         android:text="@string/button_next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
